@@ -1,0 +1,1 @@
+Aplicación que genera un número aleatorio y muestra por consola si es mayor o menos que 0'5.
